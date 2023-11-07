@@ -66,8 +66,9 @@ newPromises(url)
 .catch(erorr => console.log(erorr))
 output 
 your url backend object
-``` 
->## async awayt niz iakrohi khub baroi ioftani kori shumo in rohi naw meboshad
+```
+># What is Asyc awayt in js?
+## async awayt niz iakrohi khub baroi ioftani kori shumo in rohi naw meboshad
 ```
 async function fetchData(params) {
     try {
@@ -80,3 +81,5 @@ async function fetchData(params) {
 }
 fetchData(url)
 ```
+># What is try/catch in js?
+## try/catch in ba misli if /else kor mekunad iane fakat dar zaprs onro menavisem agar kori mo khub angom iobad dar try megaltaad vagarna dar catch mo dar catch faqat  log(Erorr) menavisem;
